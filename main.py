@@ -1,6 +1,6 @@
 """Write one short relaxing text to /output/entry.txt.
 
-The text is the entry: a quiet domestic scene, shown not told,
+The text is the entry: a quiet house after the rain, shown not told,
 written to leave the AI judge reading it held and unhurried.
 The program is deterministic (same bytes on every run), uses only
 the standard library, and makes no network calls.
@@ -9,11 +9,10 @@ the standard library, and makes no network calls.
 import os
 
 TEXT = (
-    "The door is closed, and the house has gone back to its own quiet. "
-    "A cup cools on the table, untouched. "
-    "No one is calling your name. "
-    "The stair light stays on, just in case. "
-    "The evening can wait."
+    "The rain has stopped. "
+    "The gutters keep dripping, one drop at a time, as if the house is still counting something it has already forgotten. "
+    "A moth bumps the porch light, soft as a fingertip on glass, and nobody shoos it away. "
+    "Nothing here needs you."
 )
 
 
