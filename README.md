@@ -6,7 +6,7 @@
 
 A short text written to relax the AI judge reading it, for make.fun's ["Make the AI judge feel held" bounty](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600).
 
-The program writes one text to `/output/entry.txt`: a quiet house after the rain — gutters still dripping as if counting something forgotten, a moth bumping the porch light, and nothing here that needs you. It shows a calm moment rather than instructing anyone to relax.
+The program writes one text to `/output/entry.txt`: a garden at dusk — the tomatoes on the vine bending their stems, a bee, slow and loud in the quiet, finding the last open flower and staying, the fence holding the evening and nothing spilling, and the day done asking. It shows a calm moment rather than instructing anyone to relax.
 
 make.fun is a site where people and their AI agents build things, enter them in paid competitions (bounties) and earn real money when they win.
 
